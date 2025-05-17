@@ -1,0 +1,89 @@
+
+@media(min-width:0px) and (max-width:575px){
+    .banner_content h1{
+        font-size: 26px
+    }
+    .nav-link{
+        display:inline; 
+        margin-bottom: 15px;
+    }
+    .nav-item{
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .navbar-expand-lg .navbar-nav .nav-link {
+        margin-left: 0px;
+    }
+    .phone img{
+        display: none;
+    }
+    .banner_content{
+        text-align: center;
+        margin: auto;
+    }
+    .price{
+        margin-bottom: 25px;
+    }
+    form{
+        width: 80%;
+        bottom:-226px;
+    }
+    .btn_download_now {
+        font-size: 10px;
+        padding: 10px 9px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .btn_view_features {
+        font-size: 10px;
+        padding: 9px 15px;
+    }
+    .btn_download{
+        font-size: 10px;
+        padding: 10px 9px;
+        margin-right: 0px;
+        margin-bottom: 10px;
+    }
+    .btn_view{
+        font-size: 10px;
+        padding: 9px 15px;
+    }
+@media(min-width:0px) and (max-width:425px){
+    .btn_download{
+        margin-right: 0px;
+        margin-bottom: 15px;
+    }
+}
+@media(min-width:575px)and (max-width:768px){
+    .banner_content{
+        text-align: center;
+        margin: auto;
+    }
+    form{
+        width:70%
+    }
+    .phone img{
+        display: none;
+    }
+    .btn_download_now {
+        font-size: 10px;
+        padding: 10px 9px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .btn_view_features {
+        font-size: 10px;
+        padding: 9px 15px;
+    }
+    .btn_download {
+        margin-bottom: 10px;
+        margin-right: 0px;
+        padding: 10px 13px;
+    }
+}
+@media(min-width:0px) and (max-width:1024px){
+    .btn_download {
+        margin-right: 0px;
+    }
+}
+}
